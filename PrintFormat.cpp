@@ -10,8 +10,18 @@ int main()
 		cout << c1 << "\t";
 		
 	}
-
-
+	cout << endl;
+	do 
+	{
+		c2++;
+		cout << c2 << "\t";
+	} while (c2 < 5);
+	cout << endl;
+	for (float c3 = 0; c3 < 5;)//c3++ 
+	{
+		c3++;
+		cout << c3 << "\t";
+	}
 
 
 

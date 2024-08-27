@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Printing.cpp" />
+    <ClCompile Include="PDFunctions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -27,7 +27,7 @@
     <ProjectGuid>{59b02ae6-e427-41a0-8b53-046ba5c1e4a0}</ProjectGuid>
     <RootNamespace>ConsoleAPP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Module1</ProjectName>
+    <ProjectName>CSS 2024 NOTE</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
